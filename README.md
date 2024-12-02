@@ -18,7 +18,8 @@ Included blades include:
 - Threat Extraction (under Development)
 - Mail Transfer Agent (Under Development)
 
-[!NOTE]
+> **NOTE**
+>
 > To request more content, contact your regional architect.
 
 ### Envieronment
@@ -78,7 +79,8 @@ The virtual environment is hosted on CLoudShare. it consists of the following no
 ### Lab Environemnt Access
 
 
-[!IMPORTANT]
-If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
+> IMPORTANT
+>
+>If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
 
 
