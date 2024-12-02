@@ -2,7 +2,8 @@
 
 ```txt
 
-This Demo Environment is aimed to help demo the Check Point Software Blades. WHile this training was designed on Check POint R82, the Labs and demo should work with other Check Point versions. 
+This Demo Environment is aimed to help demo the Check Point Software Blades. 
+While this training was designed on Check POint R82, the Labs and demo should work with other Check Point versions. 
 Included blades include:
 ```
 - Application Control and URL filtering
