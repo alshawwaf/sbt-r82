@@ -22,7 +22,16 @@ Included blades include:
 >
 > To request more content, contact your regional architect.
 
-### Envieronment
+### Lab Environemnt Access
+
+
+> IMPORTANT
+>
+>If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
+
+
+
+### Demo Envieronment
 
 ```txt
 The virtual environment is hosted on CLoudShare. it consists of the following nodes:
@@ -75,12 +84,3 @@ The virtual environment is hosted on CLoudShare. it consists of the following no
  - IP Address: 10.1.4.70
  - Default Gateway: 10.1.4.111
 ```
-
-### Lab Environemnt Access
-
-
-> IMPORTANT
->
->If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
-
-
