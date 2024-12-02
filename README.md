@@ -24,9 +24,6 @@ Included blades include:
 
 ### Lab Environemnt Access
 
-
-> IMPORTANT
->
 >If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
 
 
