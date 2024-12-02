@@ -2,7 +2,8 @@
 
 ```txt
 
-This Demo Environment is aimed to help demo the Check Point Software Blades including:
+This Demo Environment is aimed to help demo the Check Point Software Blades. WHile this training was designed on Check POint R82, the Labs and demo should work with other Check Point versions. 
+Included blades include:
 ```
 - Application Control and URL filtering
 - HTTPS INspection
@@ -12,7 +13,11 @@ This Demo Environment is aimed to help demo the Check Point Software Blades incl
 - Anti-Virus
 - Anti-Bot & DNS Security
 - Threat Emulation
+- Threat Extraction (under Development)
+- Mail Transfer Agent (Under Development)
 
+> [!NOTE]
+> To request more content, contact your regional architect.
 
 ### Envieronment
 
@@ -55,10 +60,23 @@ The virtual environment is hosted on CLoudShare. it consists of the following no
  - IP Address: 203.0.113.5
  - Default Gateway: 203.0.113.1 (Lab Default Gateway)
 ```
+```
+- Ubuntu CLient (For Future Use)
+ - Client in the Web Network
+ - IP Address: 10.1.3.60
+ - Default Gateway: 10.1.3.111
+```
+```
+- T-Pot Honeypot (For Future Use)
+ - Honeypot in the DMZ Network
+ - IP Address: 10.1.4.70
+ - Default Gateway: 10.1.4.111
+```
 
 ### Lab Environemnt Access
 
-```
-If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
-```
+
+> [!IMPORTANT]
+> If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
+
 
