@@ -16,7 +16,8 @@ Included blades include:
 - Anti-Bot & DNS Security
 - Threat Emulation
 - Threat Extraction (under Development)
-- Mail Transfer Agent (Under Development)
+- Mail Transfer Agent (Under Development
+- Zero-Phishing (Under Development)
 
 > **NOTE**
 >
