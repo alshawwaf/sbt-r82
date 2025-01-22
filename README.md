@@ -34,7 +34,7 @@ If you are a Check Point Employee, please reach out to your Regional Architec or
 ### Demo Environment
 
 
-The virtual environment is hosted on CLoudShare. it consists of the following nodes:
+The virtual environment is hosted on CloudShare. it consists of the following nodes:
 
 ```
 Check Point Management Server
