@@ -1,15 +1,15 @@
-## Check Point Software Blade Demo
+## Check Point Software Blade Demo Environment
 
 
 This Demo Environment is aimed to help demo the Check Point Software Blades. 
-While this training was designed on Check POint R82, the Labs and demo should work
+While this training was designed on Check Point R82, the Labs and demo should work
 with other Check Point versions. 
-Included blades include:
+Included blades:
 
 ```
 - Application Control and URL filtering
-- HTTPS INspection
-- Idenitty Awareness
+- HTTPS Inspection
+- Identity Awareness
 - Inspection Settings
 - IPS
 - Anti-Virus
@@ -25,13 +25,13 @@ Included blades include:
 > To request more content, contact your regional architect.
 
 
-### Lab Environemnt Access
+### Lab Access
 
-If you are a Check Point Employee, reach out to your Regional or Solution Architects to access the Demo Environment. For Customers, pleasecontract your SE to get access.
+If you are a Check Point Employee, please reach out to your Regional Architec or the Solutions Architect to access the Demo Environment. For Customers, please contact your SE to get access.
 
 
 
-### Demo Envieronment
+### Demo Environment
 
 
 The virtual environment is hosted on CLoudShare. it consists of the following nodes:
@@ -61,13 +61,13 @@ Check Point Gateway
 ```
 Windows Server
  - Windows server 2022
- - Domain COntroller, DNS Server, Mail Server and other services.
+ - Domain Controller, DNS Server, Mail Server and other services.
  - IP Address: 10.1.2.250
  - Default Gateway: 10.1.2.111
 ```
 ```
 Kali Linux
- - Kali Linux Oenetration Testing Environemnt
+ - Kali Linux Penetration Testing Environemnt
  - Demo Web Server and Vulnerability Testing Server located on the External Network
  - IP Address: 203.0.113.5
  - Default Gateway: 203.0.113.1 (Lab Default Gateway)
