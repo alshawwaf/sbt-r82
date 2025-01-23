@@ -7,17 +7,17 @@ with other Check Point versions.
 Included blades:
 
 ```
-- Application Control and URL filtering
-- HTTPS Inspection
-- Identity Awareness
-- Inspection Settings
-- IPS
-- Anti-Virus
-- Anti-Bot & DNS Security
-- Threat Emulation
-- Threat Extraction
-- Mail Transfer Agent
-- Zero-Phishing
+* Application Control and URL filtering
+* HTTPS Inspection
+* Identity Awareness
+* Inspection Settings
+* IPS
+* Anti-Virus
+* Anti-Bot & DNS Security
+* Threat Emulation
+* Threat Extraction
+* Mail Transfer Agent
+* Zero-Phishing
 ```
 
 > **NOTE**
