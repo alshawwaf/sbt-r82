@@ -1,7 +1,5 @@
-![Alt text here](https://github.com/alshawwaf/sbt-r82/blob/main/Assets/R82%20Logo.png | width=200)
 
 ## Check Point Software Blade Demo Environment
-
 
 This Demo Environment is aimed to help demo the Check Point Software Blades. 
 While this training was designed on Check Point R82, the Labs and demo should work
