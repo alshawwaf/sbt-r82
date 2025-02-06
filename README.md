@@ -33,6 +33,7 @@ If you are a Check Point Employee, please reach out to your Regional Architec or
 
 ### Demo Environment
 
+ ![Alt text here](images/someimage.png)
 
 The virtual environment is hosted on CloudShare. it consists of the following nodes:
 
