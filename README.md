@@ -1,4 +1,4 @@
-![Alt text here](https://github.com/alshawwaf/sbt-r82/blob/main/Assets/R82%20Logo.png)
+![Alt text here](https://github.com/alshawwaf/sbt-r82/blob/main/Assets/R82%20Logo.png=250x250)
 ## Check Point Software Blade Demo Environment
 
 
