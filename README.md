@@ -33,7 +33,7 @@ If you are a Check Point Employee, please reach out to your Regional Architec or
 
 ### Demo Environment
 
- ![Alt text here](images/someimage.png)
+ ![Alt text here](https://github.com/alshawwaf/sbt-r82/blob/main/Assets/diagram.jpg)
 
 The virtual environment is hosted on CloudShare. it consists of the following nodes:
 
