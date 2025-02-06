@@ -41,6 +41,7 @@ The virtual environment is hosted on CloudShare. it consists of the following no
 Check Point Management Server
  - R82 SMS
  - IP Address: 10.1.1.100
+ - Credentials: admin/Cpwins!1
 ```
 ```
 Check Point Gateway
@@ -51,6 +52,7 @@ Check Point Gateway
   - Server Network: 10.1.2.111
   - Web Network: 10.1.3.111
   - DMZ Network: 10.1.4.111
+  - Credentials: admin/Cpwins!1
 ```
 ```
  Windows Client
@@ -58,6 +60,7 @@ Check Point Gateway
  - Client in the Server Network
  - IP Address: 10.1.1.220
  - Default Gateway: 10.1.1.111
+ - Credentials: admin/Cpwins!1
 ```
 ```
 Windows Server
@@ -65,6 +68,7 @@ Windows Server
  - Domain Controller, DNS Server, Mail Server and other services.
  - IP Address: 10.1.2.250
  - Default Gateway: 10.1.2.111
+ - Credentials: administrator/Cpwins!1
 ```
 ```
 Kali Linux
@@ -72,4 +76,5 @@ Kali Linux
  - Demo Web Server and Vulnerability Testing Server located on the External Network
  - IP Address: 203.0.113.5
  - Default Gateway: 203.0.113.1 (Lab Default Gateway)
+ - Credentials: kali/Cpwins!1
 ```
